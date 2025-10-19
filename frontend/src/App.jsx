@@ -1,12 +1,13 @@
-
-
+import Homepage from "./component/Homepage.jsx";
+import Aboutus from "./component/Aboutus.jsx";
 
 function App() {
 
   return (
-    <div className="text-blue-500 font-bold text-4xl text-center">Tailwind CSS
-
-    </div>
+  <div>
+    <Homepage />
+    <Aboutus />
+  </div>
   )
 }
 
