@@ -50,7 +50,7 @@ export default {
 ```css
 @import "tailwindcss";
 ```
-u
+
 ---
 ## Other FrontEnd Installation & Free Soure Codes :notebook_with_decorative_cover:
 
